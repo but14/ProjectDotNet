@@ -1,0 +1,9 @@
+# C# ignore
+**/bin/
+**/obj/
+.vscode/
+
+# NodeJS ignore
+node_modules/
+.next/
+.env
